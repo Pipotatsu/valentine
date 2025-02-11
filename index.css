@@ -1,0 +1,40 @@
+html {
+    background-color: rgb(255, 197, 207);
+}
+
+#big-box > p {
+    font-size: 30px;
+    font-style: italic;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+
+#buttons{
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 20px;    
+}
+
+#yes{
+    background-color: rgb(74, 192, 74);
+    border-radius: 5px;
+    display: inline-block;
+    font-size: 30px;
+}
+
+#no{
+    background-color: rgb(222, 57, 57);
+    border-radius: 5px;
+    font-size: 30px;
+    
+    
+}
