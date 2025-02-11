@@ -3,13 +3,14 @@ var speech = document.querySelector("#speech")
 console.log(speech);
 
 var difSpeech = [
-    "Are you sure?",
+    "...what?",
     "Please?",
     "I will be so sad...",
-    "Are you SURE???",
+    "Just think about it PLEASE???",
+    "Say yes pretty please.."
     
-
 ]
+
 
 
 var i = 0;
